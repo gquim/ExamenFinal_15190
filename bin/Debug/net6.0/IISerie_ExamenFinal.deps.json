@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "IISerie_ExamenFinal/1.0.0": {
+        "runtime": {
+          "IISerie_ExamenFinal.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IISerie_ExamenFinal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

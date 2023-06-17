@@ -1,0 +1,15 @@
+C:\Users\hp\Documents\prgra\IISerie_ExamenFinal\obj\Debug\net6.0\IISerie_ExamenFinal.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\prgra\IISerie_ExamenFinal\obj\Debug\net6.0\IISerie_ExamenFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Documents\prgra\IISerie_ExamenFinal\obj\Debug\net6.0\IISerie_ExamenFinal.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\prgra\IISerie_ExamenFinal\obj\Debug\net6.0\IISerie_ExamenFinal.AssemblyInfo.cs
+C:\Users\hp\Documents\prgra\IISerie_ExamenFinal\obj\Debug\net6.0\IISerie_ExamenFinal.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\prgra\IISerie_ExamenFinal\bin\Debug\net6.0\IISerie_ExamenFinal.exe
+C:\Users\hp\Documents\prgra\IISerie_ExamenFinal\bin\Debug\net6.0\IISerie_ExamenFinal.deps.json
+C:\Users\hp\Documents\prgra\IISerie_ExamenFinal\bin\Debug\net6.0\IISerie_ExamenFinal.runtimeconfig.json
+C:\Users\hp\Documents\prgra\IISerie_ExamenFinal\bin\Debug\net6.0\IISerie_ExamenFinal.dll
+C:\Users\hp\Documents\prgra\IISerie_ExamenFinal\bin\Debug\net6.0\IISerie_ExamenFinal.pdb
+C:\Users\hp\Documents\prgra\IISerie_ExamenFinal\obj\Debug\net6.0\IISerie_ExamenFinal.dll
+C:\Users\hp\Documents\prgra\IISerie_ExamenFinal\obj\Debug\net6.0\refint\IISerie_ExamenFinal.dll
+C:\Users\hp\Documents\prgra\IISerie_ExamenFinal\obj\Debug\net6.0\IISerie_ExamenFinal.pdb
+C:\Users\hp\Documents\prgra\IISerie_ExamenFinal\obj\Debug\net6.0\IISerie_ExamenFinal.genruntimeconfig.cache
+C:\Users\hp\Documents\prgra\IISerie_ExamenFinal\obj\Debug\net6.0\ref\IISerie_ExamenFinal.dll
